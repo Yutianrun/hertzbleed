@@ -12,6 +12,9 @@ We used these scripts to test if the scaling of P-states leaks information about
 Make sure that your system is idle and minimize the number of background processes that are running and may add noise to the experiment.
 Then, to reproduce the results of the paper, run:
 ```sh
+
+
+
 ./run.sh
 ```
 
